@@ -1,6 +1,6 @@
 # Personal Portfolio 🔥
 
-> https://kukr.github.io/
+> put the link here
 
 <!-- :star: Star me on GitHub — it helps! -->
 
