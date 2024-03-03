@@ -1,6 +1,6 @@
 # Personal Portfolio 🔥
 
-> put the link here
+> https://yashi0209.github.io/
 
 <!-- :star: Star me on GitHub — it helps! -->
 
